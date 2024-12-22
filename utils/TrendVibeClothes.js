@@ -417,7 +417,7 @@ export const clothesData = [
     },
     {
         id: 33,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Formals",
         title: "Aroosh (3PC)",
         price: 22495,
@@ -430,7 +430,7 @@ export const clothesData = [
     },
     {
         id: 34,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Formals",
         title: "Amar (3PC)",
         price: 34995,
@@ -443,7 +443,7 @@ export const clothesData = [
     },
     {
         id: 35,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Formals",
         title: "Eir",
         price: 20495,
@@ -456,7 +456,7 @@ export const clothesData = [
     },
     {
         id: 36,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Formals",
         title: "Siara (3PC)",
         price: 23595,
@@ -469,7 +469,7 @@ export const clothesData = [
     },
     {
         id: 37,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Formals",
         title: "Eris (3PC)",
         price: 19895,
@@ -482,7 +482,7 @@ export const clothesData = [
     },
     {
         id: 38,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Velvet",
         title: "Azura",
         price: 10895,
@@ -495,7 +495,7 @@ export const clothesData = [
     },
     {
         id: 39,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Velvet",
         title: "Diyar",
         price: 13995,
@@ -508,7 +508,7 @@ export const clothesData = [
     },
     {
         id: 40,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Velvet",
         title: "Wyn-Pure",
         price: 13995,
@@ -521,7 +521,7 @@ export const clothesData = [
     },
     {
         id: 41,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Velvet",
         title: "Zeenat",
         price: 13995,
@@ -534,7 +534,7 @@ export const clothesData = [
     },
     {
         id: 42,
-        category: "TV Studio",
+        category: "KK Studio",
         fabric: "Velvet",
         title: "Zolani",
         price: 9495,
@@ -639,7 +639,7 @@ export const clothesData = [
     {
         id: 51,
         category: "Accessories",
-        fabric: "pouches",
+        fabric: "Pouches",
         title: "Pouches Off White KKP-1007",
         price: 1078,
         des: "POUCH OFF WITHE SEQUIN MULTI COLORED EMBROIDERY AND  EMBELLISHED",
@@ -648,7 +648,7 @@ export const clothesData = [
     {
         id: 52,
         category: "Accessories",
-        fabric: "pouches",
+        fabric: "Pouches",
         title: "Viscose Embroidered Pouch",
         price: 1595,
         des: "A rich maroon viscose potli pouch, elegantly embroidered with intricate patterns and adorned with dori tassels and tilla tassel hangings, making it a perfect blend of tradition and style for any special occasion.",
@@ -658,7 +658,7 @@ export const clothesData = [
     {
         id: 53,
         category: "Accessories",
-        fabric: "pouches",
+        fabric: "Pouches",
         title: "Viscose Embroidered Pouch",
         price: 2078,
         des: "A stylish black viscose potli pouch, beautifully embroidered with sequins spray and adorned with dori tassels and tilla tassel hangings, adding a touch of glamour and elegance to any occasion.",
