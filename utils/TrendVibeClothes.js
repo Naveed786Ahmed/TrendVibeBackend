@@ -764,7 +764,7 @@ export const clothesData = [
     {
         id: 62,
         category: "Kids",
-        fabric: "Formals",
+        fabric: "Kids Formals",
         title: "AYZEL SKE-243-23 (2PC)",
         price: 2358,
         des: "This elegant outfit is the epitome of grace and perfection illustrated in gleaming black shade. It features a classy shirt adorned with beautiful floral embroidery spray in attractive colors and enhanced with overlaped neckline detail at front. Paired with cigarette pants, this radiant outfit is a style statement for gatherings to style this winter season.",
@@ -776,7 +776,7 @@ export const clothesData = [
     {
         id: 63,
         category: "Kids",
-        fabric: "Formals",
+        fabric: "Kids Formals",
         title: "Chandni SKE-453 (2PC)",
         price: 2798,
         des: "This white textured two-piece ensemble exudes elegance and contemporary flair with its thoughtful design elements. The top features intricate embroidery along the neckline, sleeves, side slits, and hem, showcasing meticulous craftsmanship and adding a touch of traditional charm. The addition of color blocking details enhances the visual interest, creating a modern and sophisticated aesthetic. Paired perfectly with trousers detailed with stitching accents, this ensemble strikes a harmonious balance between classic elegance and modern design, making it an ideal choice for any formal or semi-formal occasion.",
@@ -788,7 +788,7 @@ export const clothesData = [
     {
         id: 64,
         category: "Kids",
-        fabric: "Formals",
+        fabric: "Kids Formals",
         title: "KID SKE-342- (2PC)",
         price: 3078,
         des: "This two-piece suit is design features a traditionally rich festive look. The elegant jacquard shirt portrays delicate embroidery in vibrant hues layered on a tropical canvas and the gracefully embroidered shalwar offers a comfortable fit. Perfect for special occasions, thisÂ enchanting green outfit is a graceful choice for happening occasions.",
@@ -800,7 +800,7 @@ export const clothesData = [
     {
         id: 65,
         category: "Kids",
-        fabric: "Formals",
+        fabric: "Kids Formals",
         title: "KID SKE-331 (2PC)",
         price: 4398,
         des: "Adding a touch of graceful elegance to this exquisite ensemble is a layer in a subtle sky blue shade. It features a contemporary shirt adorned with beautiful intricate floral embroidery at hem border, neckline and sleeves. Paired with a straight trouser enhanced with an embroidered border at the bottom opening, this resplendent outfit makes a style statement for happening occasions this festive season.",
@@ -812,7 +812,7 @@ export const clothesData = [
     {
         id: 66,
         category: "Kids",
-        fabric: "Formals",
+        fabric: "Kids Formals",
         title: "KID SKE-321-24 (3PC)",
         price: 2078,
         des: "A classically rich composition is layered over this ensemble rendered in black shade. It features a mesmerizing shirt adorned with captivating floral and geomatrical design embroidery details. Paired with an elegantly crafted trouser, this resplendent look is completed with a classy chiffon dupatta with allover embroidery spray. Embrace this alluring outfit at festive events this season.",
